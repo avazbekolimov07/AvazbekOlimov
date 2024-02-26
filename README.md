@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avazbek-olimov-b83344198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avazbekolimov07" height="30" width="40" /> </a> <a href="https://t.me/avazb7k" target="blank"><img align="center" src="https://github.com/avazbekolimov07/AvazbekOlimov/blob/main/Telegram_logo.png" height="40" width="40" /> </a> <a href="mailto:avazbekolimov007@gmail.com" target="blank"><img align="center" src="https://github.com/avazbekolimov07/AvazbekOlimov/blob/main/gmail-icon_free-png.webp" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/avazbek-olimov-b83344198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avazbekolimov07" height="30" width="40" /> </a> <a href="https://t.me/avazb7k" target="blank"><img align="center" src="https://github.com/avazbekolimov07/AvazbekOlimov/blob/main/Telegram_logo.png" height="40" width="40" /> </a> <a href="mailto:avazbekolimov007@gmail.com" target="blank"><img align="center" src="https://github.com/avazbekolimov07/AvazbekOlimov/blob/main/vecteezy_gmail-png-icone_16716465.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
